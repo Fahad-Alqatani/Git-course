@@ -1,2 +1,4 @@
 # Git-course
-for learning about git repo
+#### for learning about git repo
+
+## project notes
